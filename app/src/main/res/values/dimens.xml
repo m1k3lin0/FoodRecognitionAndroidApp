@@ -1,0 +1,17 @@
+<resources>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="text_size">15pt</dimen>
+    <dimen name="history_text_size">9pt</dimen>
+    <dimen name="image_size">25pt</dimen>
+    <dimen name="item_list_dishes_margin">8dp</dimen>
+    <dimen name="margin_bottom">140dp</dimen>
+    <dimen name="big_camera_dimensions">320dp</dimen>
+    <dimen name="small_camera_dimensions">60dp</dimen>
+    <dimen name="appbar_padding_top">8dp</dimen>
+    <dimen name="app_bar_height">180dp</dimen>
+    <dimen name="text_margin">16dp</dimen>
+    <dimen name="button_text">50dp</dimen>
+    <dimen name="info_text_size">10pt</dimen>
+</resources>
